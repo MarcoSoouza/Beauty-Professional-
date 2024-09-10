@@ -7,6 +7,7 @@ Ramo da Empresa:
 Nós somos uma empresa que vive de possibilitar que as pessoas vivam de suas paixões por beleza. Para isso, criamos uma plataforma especialmente planejada para que todos possam mudar as suas vidas através de conhecimento.
 
 Serviços que a Empresa Oferecerá e Tecnologias Utilizadas
+
 A Beauty Professional é o seu ambiente digital completo para capacitação e desenvolvimento no setor da estética. Oferecemos cursos especializados e atualizados, abordando desde as técnicas básicas até os tratamentos estéticos mais avançados. Nossa missão é proporcionar uma experiência de aprendizado interativa e acessível, utilizando tecnologias modernas para garantir que você obtenha as habilidades necessárias para se destacar no mercado.
 Com conteúdos práticos, teóricos e suporte de profissionais experientes, nossa plataforma permite que você estude no seu ritmo, com materiais como videoaulas. Seja você iniciante ou profissional em busca de aperfeiçoamento, a Beauty Professional oferece o caminho ideal para seu sucesso no mundo da beleza e bem-estar.
 
