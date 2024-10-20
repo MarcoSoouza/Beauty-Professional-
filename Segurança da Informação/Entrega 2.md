@@ -8,3 +8,6 @@ Explicação dos Itens:
 5.	Atendimento ao cliente deficiente: Afeta a imagem da empresa e a satisfação dos clientes.
 6.	Baixa retenção de alunos: Indica possíveis problemas no ensino ou no ambiente.
 7.	Ambientes inadequados de higiene: Pode causar problemas de saúde e prejudicar a reputação.
+8.	Falha na atualização dos currículos: Afeta a competitividade e a relevância do curso.
+9.	Reclamações frequentes sobre preço: Pode afetar a percepção de valor e as matrículas.
+10.	Atraso na entrega de certificados: Gera insatisfação e pode afetar a reputação do curso.
