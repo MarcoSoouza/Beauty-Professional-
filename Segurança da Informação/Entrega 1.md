@@ -34,19 +34,32 @@ Políticas de Treinamento e Boas Práticas
 Configuração de sistemas de detecção de intrusão e prevenção de ataques
 
 1. Configurar um IDS/IPS (Intrusion Detection System / Intrusion Prevention System)
+   
 •	Utilize sistemas IDS/IPS para monitorar a rede e identificar padrões de controle suspeitos. Ferramentas como Snort, Suricata e Cisco Firepower são comuns.
+
 •	O IDS detecta ataques e gera alertas, enquanto o IPS pode bloquear ameaças automaticamente
+
 2. Monitoramento de Logs e Análise de Eventos
+   
 •	Configure um sistema de análise de logs para monitorar atividades suspeitas e detectar padrões anormais.
+
 •	Ferramentas como Splunk ou ELK Stack (Elasticsearch, Logstash, Kibana) ajudam a consolidar e analisar os logs em tempo real.
+
 3. Firewall de Aplicações Web (WAF)
+   
 •	Um WAF protege contra ataques baseados em aplicações web, como SQL Injection, Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
 •	Ferramentas como ModSecu
+
 4. Segmentação de Rede
+   
 •	Dividir a rede em segmentos (por exemplo, rede de produção, rede de desenvolvimento e rede administrativa) para dificultar o acesso
+
 •	Limite o tráfego entre os segmentos
+
 5. Controle de Acesso e Autenticação Multifator (MFA)
+   
 •	Adote um sistema de controle de acesso rigoroso e implemente autenticação multifatorial para áreas de acesso
+
 •	Esta medida reduz a chance de acesso não autorizado, mesmo em caso de comprometimento de crédito
 
 6 Configuração de Honeypots e Honeynets
