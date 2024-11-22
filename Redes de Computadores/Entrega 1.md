@@ -26,8 +26,13 @@ Segunda Imagem - Sala Recepção
  2 Computador
  
  2 Notebook
+ 
  1 impressora
+ 
  Terceira Imagem -  Sala de Aula
+ 
 1 Projetor 
+
 1 Notebook
+
 1 Switch
