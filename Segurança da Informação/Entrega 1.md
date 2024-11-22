@@ -10,3 +10,6 @@ Políticas de Uso e Manutenção de Equipamentos
 6.	Equipamentos Pessoais: O uso de dispositivos pessoais, como celulares e notebooks, deve ser autorizado para atividades relacionadas ao curso.
    
 7.	Uso de Equipamentos do Curso: O equipamento fornecido pelo curso (aparelhos estéticos, computadores, etc.) deve ser usado exclusivamente para práticas e aulas autorizadas
+8.	Limpeza e Higiene de Equipamentos: Todos os equipamentos e ferramentas devem ser limpos antes e depois do uso, de acordo com as normas de saúde e segurança.
+9.	Manutenção de Equipamentos: Todo equipamento deve passar por manutenção periódica, e qualquer problema deve ser imediatamente relatado ao responsável técnico.
+10.	Proibição de Software Não Autorizado: É proibido instalar softwares não autorizados nos dispositivos da instituição para evitar riscos de segurança.
