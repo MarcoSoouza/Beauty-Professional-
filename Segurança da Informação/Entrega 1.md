@@ -6,5 +6,7 @@ Políticas de Acesso e Segurança
 5.	Limite de Tentativas de Login: Após três tentativas de login sem sucesso, a conta será temporariamente bloqueada.
 
 Políticas de Uso e Manutenção de Equipamentos
+
 6.	Equipamentos Pessoais: O uso de dispositivos pessoais, como celulares e notebooks, deve ser autorizado para atividades relacionadas ao curso.
+   
 7.	Uso de Equipamentos do Curso: O equipamento fornecido pelo curso (aparelhos estéticos, computadores, etc.) deve ser usado exclusivamente para práticas e aulas autorizadas
