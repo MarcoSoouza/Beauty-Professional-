@@ -22,3 +22,10 @@ Políticas de Privacidade e Confidencialidade
 14.	Compartilhamento de Informações Sensíveis: Informações sensíveis de clientes e alunos não podem ser compartilhadas sem autorização explícita.
 15.	Autorização de Publicidade: Qualquer uso da imagem de clientes ou alunos para fins publicitários deve ter autorização por escrito.
 
+Políticas de Treinamento e Boas Práticas
+
+16.	Treinamento em Higiene e Segurança: Todos os alunos e funcionários devem passar por treinamentos em higiene e segurança regularmente.
+17.	Procedimentos de Emergência: Todos devem estar cientes dos procedimentos de emergência e conhecer as saídas de segurança e equipamentos de primeiros socorros.
+18.	Uso Responsável de Produtos Químicos: Produtos químicos e cosméticos devem ser manuseados e armazenados adequadamente, respeitando as normas de segurança.
+19.	Registro de Procedimentos: Cada atendimento e procedimento realizado no cliente deve ser registrado, especificando produtos e técnicas utilizadas.
+20.	Política de Feedback: Clientes e alunos devem ser incentivados a fornecer feedback sobre os serviços e a experiência, permitindo melhorias contínuas.
