@@ -31,3 +31,37 @@ Políticas de Treinamento e Boas Práticas
 18.	Uso Responsável de Produtos Químicos: Produtos químicos e cosméticos devem ser manuseados e armazenados adequadamente, respeitando as normas de segurança.
 19.	Registro de Procedimentos: Cada atendimento e procedimento realizado no cliente deve ser registrado, especificando produtos e técnicas utilizadas.
 20.	Política de Feedback: Clientes e alunos devem ser incentivados a fornecer feedback sobre os serviços e a experiência, permitindo melhorias contínuas.
+
+Configuração de sistemas de detecção de intrusão e prevenção de ataques
+
+1. Configurar um IDS/IPS (Intrusion Detection System / Intrusion Prevention System)
+•	Utilize sistemas IDS/IPS para monitorar a rede e identificar padrões de controle suspeitos. Ferramentas como Snort, Suricata e Cisco Firepower são comuns.
+•	O IDS detecta ataques e gera alertas, enquanto o IPS pode bloquear ameaças automaticamente
+2. Monitoramento de Logs e Análise de Eventos
+•	Configure um sistema de análise de logs para monitorar atividades suspeitas e detectar padrões anormais.
+•	Ferramentas como Splunk ou ELK Stack (Elasticsearch, Logstash, Kibana) ajudam a consolidar e analisar os logs em tempo real.
+3. Firewall de Aplicações Web (WAF)
+•	Um WAF protege contra ataques baseados em aplicações web, como SQL Injection, Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
+•	Ferramentas como ModSecu
+4. Segmentação de Rede
+•	Dividir a rede em segmentos (por exemplo, rede de produção, rede de desenvolvimento e rede administrativa) para dificultar o acesso
+•	Limite o tráfego entre os segmentos
+5. Controle de Acesso e Autenticação Multifator (MFA)
+•	Adote um sistema de controle de acesso rigoroso e implemente autenticação multifatorial para áreas de acesso
+•	Esta medida reduz a chance de acesso não autorizado, mesmo em caso de comprometimento de crédito
+
+6 Configuração de Honeypots e Honeynets
+•	Implementar honeypots e honeynets permite a criação de "iscas" para enganar potenciais caçadores e entender as técnicas usadas.
+•	Isso ajuda a identificar comportamentos
+7 Atualização Regular e Patches de Segurança
+•	Garanta que todos os sistemas e softwares sejam atualizados, aplicando patches de segurança regularmente para eliminar vulnerabilidades conhecidas
+•	Automatize processos de atualização para redução
+8. Análise de Tráfego com IA e Machine Learning
+•	Use ferramentas com inteligência artificial e aprendizado de máquina para analisar o comportamento do tráfego e identificação
+•	Soluções como Darktrace e Vectra AI são conhecidas por sua capacidade de detecção a
+9 Implementação de Regras de Detecção Personalizadas
+•	Configurar regras personalizadas no IDS/IPS para detectar ataques específicos ao ambiente da
+•	Baseie-se nas regras em ameaças recentes e nas necessidades de segurança específicas do seu conjunto
+10. Treinamento de Equipes e Simulações de Ataques
+•	Realize treinamentos regulares para sua equipe de TI e outros funcionários sobre como importância e responder a experimento de
+•	Simule ataques (ex.: teste de phishing e pentests) para melhorar a resposta de segurança e fortalecer as políticas de segurança da empresa
