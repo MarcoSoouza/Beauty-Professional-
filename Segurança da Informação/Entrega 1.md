@@ -50,21 +50,29 @@ Configuração de sistemas de detecção de intrusão e prevenção de ataques
 •	Esta medida reduz a chance de acesso não autorizado, mesmo em caso de comprometimento de crédito
 
 6 Configuração de Honeypots e Honeynets
+
 •	Implementar honeypots e honeynets permite a criação de "iscas" para enganar potenciais caçadores e entender as técnicas usadas.
+
 •	Isso ajuda a identificar comportamentos
 
 7 Atualização Regular e Patches de Segurança
+
 •	Garanta que todos os sistemas e softwares sejam atualizados, aplicando patches de segurança regularmente para eliminar vulnerabilidades conhecidas
+
 •	Automatize processos de atualização para redução
 
 8. Análise de Tráfego com IA e Machine Learning
 •	Use ferramentas com inteligência artificial e aprendizado de máquina para analisar o comportamento do tráfego e identificação
+
 •	Soluções como Darktrace e Vectra AI são conhecidas por sua capacidade de detecção
 
 9 Implementação de Regras de Detecção Personalizadas
+
 •	Configurar regras personalizadas no IDS/IPS para detectar ataques específicos ao ambiente da
+
 •	Baseie-se nas regras em ameaças recentes e nas necessidades de segurança específicas do seu conjunto
 
 10. Treinamento de Equipes e Simulações de Ataques
+11. 
 •	Realize treinamentos regulares para sua equipe de TI e outros funcionários sobre como importância e responder a experimento de
 •	Simule ataques (ex.: teste de phishing e pentests) para melhorar a resposta de segurança e fortalecer as políticas de segurança da empresa
