@@ -10,7 +10,6 @@ Políticas de Acesso e Segurança
 Políticas de Uso e Manutenção de Equipamentos
 
 6.	Equipamentos Pessoais: O uso de dispositivos pessoais, como celulares e notebooks, deve ser autorizado para atividades relacionadas ao curso.
-   
 7.	Uso de Equipamentos do Curso: O equipamento fornecido pelo curso (aparelhos estéticos, computadores, etc.) deve ser usado exclusivamente para práticas e aulas autorizadas
 8.	Limpeza e Higiene de Equipamentos: Todos os equipamentos e ferramentas devem ser limpos antes e depois do uso, de acordo com as normas de saúde e segurança.
 9.	Manutenção de Equipamentos: Todo equipamento deve passar por manutenção periódica, e qualquer problema deve ser imediatamente relatado ao responsável técnico.
@@ -53,15 +52,19 @@ Configuração de sistemas de detecção de intrusão e prevenção de ataques
 6 Configuração de Honeypots e Honeynets
 •	Implementar honeypots e honeynets permite a criação de "iscas" para enganar potenciais caçadores e entender as técnicas usadas.
 •	Isso ajuda a identificar comportamentos
+
 7 Atualização Regular e Patches de Segurança
 •	Garanta que todos os sistemas e softwares sejam atualizados, aplicando patches de segurança regularmente para eliminar vulnerabilidades conhecidas
 •	Automatize processos de atualização para redução
+
 8. Análise de Tráfego com IA e Machine Learning
 •	Use ferramentas com inteligência artificial e aprendizado de máquina para analisar o comportamento do tráfego e identificação
-•	Soluções como Darktrace e Vectra AI são conhecidas por sua capacidade de detecção a
+•	Soluções como Darktrace e Vectra AI são conhecidas por sua capacidade de detecção
+
 9 Implementação de Regras de Detecção Personalizadas
 •	Configurar regras personalizadas no IDS/IPS para detectar ataques específicos ao ambiente da
 •	Baseie-se nas regras em ameaças recentes e nas necessidades de segurança específicas do seu conjunto
+
 10. Treinamento de Equipes e Simulações de Ataques
 •	Realize treinamentos regulares para sua equipe de TI e outros funcionários sobre como importância e responder a experimento de
 •	Simule ataques (ex.: teste de phishing e pentests) para melhorar a resposta de segurança e fortalecer as políticas de segurança da empresa
