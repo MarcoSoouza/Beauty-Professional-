@@ -18,3 +18,7 @@ Políticas de Privacidade e Confidencialidade
 
 11.	Confidencialidade de Dados dos Clientes: As informações pessoais e de saúde dos clientes devem ser tratadas com confidencialidade, em conformidade com a LGPD.
 12.	Política de Fotografia: É proibido tirar fotos de clientes e colegas sem consentimento, respeitando o direito à privacidade.
+13.	Proibição de Uso de Dados Pessoais: Dados pessoais de alunos e clientes só podem ser usados para fins diretamente relacionados ao curso.
+14.	Compartilhamento de Informações Sensíveis: Informações sensíveis de clientes e alunos não podem ser compartilhadas sem autorização explícita.
+15.	Autorização de Publicidade: Qualquer uso da imagem de clientes ou alunos para fins publicitários deve ter autorização por escrito.
+
