@@ -13,6 +13,7 @@ Políticas de Uso e Manutenção de Equipamentos
 8.	Limpeza e Higiene de Equipamentos: Todos os equipamentos e ferramentas devem ser limpos antes e depois do uso, de acordo com as normas de saúde e segurança.
 9.	Manutenção de Equipamentos: Todo equipamento deve passar por manutenção periódica, e qualquer problema deve ser imediatamente relatado ao responsável técnico.
 10.	Proibição de Software Não Autorizado: É proibido instalar softwares não autorizados nos dispositivos da instituição para evitar riscos de segurança.
+
 Políticas de Privacidade e Confidencialidade
 11.	Confidencialidade de Dados dos Clientes: As informações pessoais e de saúde dos clientes devem ser tratadas com confidencialidade, em conformidade com a LGPD.
 12.	Política de Fotografia: É proibido tirar fotos de clientes e colegas sem consentimento, respeitando o direito à privacidade.
