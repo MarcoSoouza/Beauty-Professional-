@@ -44,6 +44,13 @@ o	Maquiagem airbrush.
 o	Aplicação de cílios postiços.
 
 Nome da Equipe 
+
 Nome: Edvanylson Silva de Assunção R.A: 2224100666
+
 Nome: Marco Antônio Souza Silva R.A: 2224100414
+
 Nome: Laura Tane da Silva R.A: 2224103494
+
+Nome: Claudio Silva Souza Santos R.A: 2224102145
+
+Nome: Gabriel Zeferino Santana R.A: 2224103026
