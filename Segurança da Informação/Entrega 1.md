@@ -1,4 +1,4 @@
-implementação de Medidas de Segurança
+Implementação de Medidas de Segurança
 
 Políticas de Acesso e Segurança
 1.	Controle de Acesso: Apenas funcionários e alunos com credenciais têm acesso autorizado às áreas restritas e aos sistemas de informação do curso.
