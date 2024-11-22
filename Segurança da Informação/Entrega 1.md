@@ -74,6 +74,6 @@ Configuração de sistemas de detecção de intrusão e prevenção de ataques
 •	Baseie-se nas regras em ameaças recentes e nas necessidades de segurança específicas do seu conjunto
 
 10. Treinamento de Equipes e Simulações de Ataques
-11. 
-•	Realize treinamentos regulares para sua equipe de TI e outros funcionários sobre como importância e responder a experimento de
+    
+•	Realize treinamentos regulares para sua equipe de TI e outros funcionários sobre como importância e responder a experimento
 •	Simule ataques (ex.: teste de phishing e pentests) para melhorar a resposta de segurança e fortalecer as políticas de segurança da empresa
