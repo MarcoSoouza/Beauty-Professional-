@@ -15,5 +15,6 @@ Políticas de Uso e Manutenção de Equipamentos
 10.	Proibição de Software Não Autorizado: É proibido instalar softwares não autorizados nos dispositivos da instituição para evitar riscos de segurança.
 
 Políticas de Privacidade e Confidencialidade
+
 11.	Confidencialidade de Dados dos Clientes: As informações pessoais e de saúde dos clientes devem ser tratadas com confidencialidade, em conformidade com a LGPD.
 12.	Política de Fotografia: É proibido tirar fotos de clientes e colegas sem consentimento, respeitando o direito à privacidade.
