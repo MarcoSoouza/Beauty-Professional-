@@ -62,6 +62,7 @@ Configuração de sistemas de detecção de intrusão e prevenção de ataques
 •	Automatize processos de atualização para redução
 
 8. Análise de Tráfego com IA e Machine Learning
+   
 •	Use ferramentas com inteligência artificial e aprendizado de máquina para analisar o comportamento do tráfego e identificação
 
 •	Soluções como Darktrace e Vectra AI são conhecidas por sua capacidade de detecção
